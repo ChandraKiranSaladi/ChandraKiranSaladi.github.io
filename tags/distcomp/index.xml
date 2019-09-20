@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DistComp | Chandra Kiran Saladi</title>
+    <link>https://kiranck18.github.io/tags/distcomp/</link>
+      <atom:link href="https://kiranck18.github.io/tags/distcomp/index.xml" rel="self" type="application/rss+xml" />
+    <description>DistComp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 - 2020 Chandra Kiran Saladi</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kiranck18.github.io/img/icon-192.png</url>
+      <title>DistComp</title>
+      <link>https://kiranck18.github.io/tags/distcomp/</link>
+    </image>
+    
+    <item>
+      <title>Implementation of Distributed Algorithms</title>
+      <link>https://kiranck18.github.io/project/implementation-of-distributed-algorithms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/project/implementation-of-distributed-algorithms/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Implemented a simple message based Synchronous Distributed System using Sockets and Threads.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Algorithms include Peleg’s, SyncGHS and SyncBFS for leader election, spanning tree, BFS tree construction and Ricart-Agrawala mutual exclusion algorithm within the distributed network.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Implementation using ​Java​ and ​Linux shell scripts​. Shell script to open multiple nodes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

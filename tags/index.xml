@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Chandra Kiran Saladi</title>
+    <link>https://kiranck18.github.io/tags/</link>
+      <atom:link href="https://kiranck18.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 - 2020 Chandra Kiran Saladi</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kiranck18.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://kiranck18.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://kiranck18.github.io/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOT</title>
+      <link>https://kiranck18.github.io/tags/iot/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://kiranck18.github.io/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DistComp</title>
+      <link>https://kiranck18.github.io/tags/distcomp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/distcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>https://kiranck18.github.io/tags/hackathon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://kiranck18.github.io/tags/ml/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kiranck18.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
